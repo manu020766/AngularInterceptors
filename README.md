@@ -26,6 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+link con más info: [Como usar HttpInterceptors en Angular](https://dev.to/ricardochl/como-usar-httpinterceptors-en-angular-2o84)
 =======
 Meetup Angular Costa Rica
->>>>>>> c59610ba065a63e3e2b02a197beea9c48675e1db
+
